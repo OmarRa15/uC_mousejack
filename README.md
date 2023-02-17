@@ -3,7 +3,6 @@
 This Project is forked from [insecurityofthings/uC_mousejack](https://github.com/insecurityofthings/uC_mousejack).
 
 It contains multiple fixes and adaptations to make it compatible with the NodeMCU microcontoler
--------------
 
 Microcontroller Mousejack is a project to get [Mousejack](https://www.mousejack.com) attacks into a small embedded device, with the form factor of a key chain.
 
@@ -23,7 +22,7 @@ To build your own device you'll need the following components:
 
  The Fritzing diagram below shows the wiring layout used in the prototype design:
 
- ![Mousejack Fritzing Design](https://raw.githubusercontent.com/phikshun/uC_mousejack/master/tools/mousejack.png)
+ ![Mousejack Fritzing Design](https://raw.githubusercontent.com/OmarRa15/uC_mousejack_on_NodeMCU/master/tools/Circuit-Diagram-for-nRF24L01-NodeMCU.png)
 
  Building
  --------
