@@ -458,7 +458,7 @@ void reset() {
 }
 
 void setup() {
-  Serial.begin(115200);
+  Serial.begin(9600);
   pinMode(ledpin, OUTPUT);
   digitalWrite(ledpin, LOW);
 }
