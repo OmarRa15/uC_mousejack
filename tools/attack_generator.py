@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import keymap
@@ -152,7 +152,7 @@ class DuckyParser(object):
                 pass
 
             else:
-                print "CAN'T PROCESS... %s" % line
+                print(f"CAN'T PROCESS... {line}")
 
         return entries
 
